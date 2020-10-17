@@ -1,0 +1,35 @@
+{
+  "name": "transfer.sh",
+  "version": "0.0.0",
+  "dependencies": {
+    "wiredep": "^4.0.0"
+  },
+  "devDependencies": {
+    "grunt": ">=1.0.0",
+    "grunt-concurrent": "~1.0.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.0.0",
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-include-replace": "^5.0.0",
+    "grunt-includes": "^1.1.0",
+    "grunt-npm-command": "^0.1.2",
+    "grunt-rev": "~0.1.0",
+    "grunt-svgmin": "^6.0.0",
+    "grunt-usemin": "^3.1.1",
+    "jshint-stylish": "~1.0.0",
+    "load-grunt-tasks": "^4.0.0",
+    "matchdep": "^2.0.0",
+    "time-grunt": "~1.0.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
